@@ -1,0 +1,21 @@
+/*
+Theme Name: MagazineDT
+Theme URI: https://dwinsteam.com/DwinsTeam/
+Author: DwinsTeam
+Author URI: https://IslamHossain59.com/DwinsTeam/
+Description: MagazineDT is suitable theme for creating news, blog, tutorial, affiliate website. Its a developed product of DwinsTeam. 
+Version: DT-1.0.0
+License: GNU General Public License v2 or later
+License URI: https://IslamHossain59.com/DwinsTeam/
+Text Domain: MagazineDT
+Tags: Magazine website, News Website, Blog website, Tutorial website, Amazon Affiliate website, Online Journal, Portfolio and Profile website. One-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+.nav-menu ul li a{
+	/*top menu a style*/
+	/*color:purple; background: red; */
+}
+.size-thumbnail {
+  max-width: 100%;
+  height: auto;
+}
